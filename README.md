@@ -190,25 +190,6 @@ This project demonstrates how web analytics can help organizations:
 
 ---
 
-# 📑 Table of Contents
-
-- Project Overview
-- Business Problem
-- Project Objectives
-- Dataset Description
-- Data Collection
-- Data Cleaning
-- Feature Engineering
-- KPI Analysis
-- Conversion Funnel Analysis
-- Dashboard Walkthrough
-- Business Insights
-- Recommendations
-- Installation Guide
-- Future Improvements
-- Skills Demonstrated
-- About the Author
-
 # 📂 Dataset Description
 
 Unlike traditional analytics projects that rely on historical website logs, this project combines **real web data collection** with **simulated Google Analytics 4 (GA4) event tracking** to recreate a realistic website analytics environment.
