@@ -1,10 +1,6 @@
 # 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
 <p align="center">
-  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="50%">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
