@@ -1,7 +1,7 @@
 # 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
 
 <p align="center">
-  <img src="images/project_banner.png" alt="Web Analytics Dashboard Banner" width="100%">
+  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
