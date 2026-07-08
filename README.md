@@ -13,6 +13,9 @@
 
 </p>
 
+<p align="center">
+  <img src="images/executive_dashboard.png" alt="Web Analytics Dashboard Banner" width="80%">
+</p>
 ---
 
 # 📌 Project Overview
