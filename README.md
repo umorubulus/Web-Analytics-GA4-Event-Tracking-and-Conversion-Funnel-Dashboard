@@ -1,4 +1,4 @@
-# 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Python, GA4 & Power BI
+# 🌐 Web Analytics & Conversion Funnel Analysis Dashboard | Excel, Python, GA4 & Power BI
 
 <p align="center">
 
@@ -91,87 +91,6 @@ This project seeks to answer the following business questions:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Web-Analytics-GA4-Conversion-Funnel-Dashboard/
-│
-├── README.md
-├── web_analytics_ga4_funnel_analysis.py
-├── Web_Analytics_GA4_Funnel_Analysis.ipynb
-│
-├── data/
-│   ├── scraped_products.csv
-│   ├── ga4_event_data.csv
-│   └── ga4_cleaned_event_data.csv
-│
-├── images/
-│   ├── project_banner.png
-│   ├── executive_dashboard.png
-│   ├── conversion_funnel_dashboard.png
-│   ├── acquisition_dashboard.png
-│   ├── device_dashboard.png
-│   ├── geography_dashboard.png
-│   ├── landing_page_dashboard.png
-│   ├── event_distribution.png
-│   ├── conversion_funnel.png
-│   ├── conversion_rate_by_device.png
-│   ├── conversion_rate_by_country.png
-│   ├── conversion_rate_by_traffic_source.png
-│   ├── dropoff_rate_by_stage.png
-│   └── revenue_by_traffic_source.png
-│
-├── outputs/
-│   ├── cleaned_ga4_event_data.csv
-│   ├── conversion_funnel_summary.csv
-│   ├── country_summary.csv
-│   ├── device_summary.csv
-│   ├── kpi_summary.csv
-│   ├── landing_page_summary.csv
-│   ├── traffic_source_summary.csv
-│   └── business_recommendations.txt
-│
-└── requirements.txt
-```
-
----
-
-# 📊 Project Workflow
-
-```text
-Website Data
-        │
-        ▼
-Data Collection
-(Web Scraping + Simulated GA4 Events)
-        │
-        ▼
-Data Cleaning & Transformation
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Exploratory Data Analysis (EDA)
-        │
-        ▼
-KPI Calculation
-        │
-        ▼
-Conversion Funnel Analysis
-        │
-        ▼
-Traffic Source Analysis
-        │
-        ▼
-Device & Geography Analysis
-        │
-        ▼
-Power BI Dashboard Development
-        │
-        ▼
-Business Insights & Recommendations
-```
 
 ---
 
@@ -635,7 +554,7 @@ This information enables organizations to prioritize improvements where they can
 
 ---
 
-## Example Findings
+## Findings
 
 - Most visitors successfully view products.
 - A noticeable proportion abandon the website before adding products to the cart.
